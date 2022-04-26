@@ -8,7 +8,7 @@
 
 It’s a simple drag and drop app using js drag events like drapOn dragEnter etc. THis is built using Vanilla Js and CSS flexbox
 
-
+Project Demo: [https://drag-and-drop-by-shahid.netlify.app/](https://drag-and-drop-by-shahid.netlify.app/)
 
 ## Hi, I'm Shahid! 👋
 
@@ -45,7 +45,6 @@ I’m a perfectionist to the smallest pixel and I always take care of responsive
 
 ## Credits
 
-- [Brad Traversy](https://github.com/bradtraversy)
 - [50 Projects 50 Days](https://50projects50days.com)
 
 ## Questions?
